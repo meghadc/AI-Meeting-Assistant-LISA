@@ -1,6 +1,0 @@
-#!/Volumes/work/Final_Pro/myenv/bin/python
-import sys
-from lisa.main import main
-
-if __name__ == '__main__':
-    sys.exit(main())
